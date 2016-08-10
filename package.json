@@ -1,0 +1,29 @@
+{
+  "name": "sequencejs",
+  "version": "1.0.0",
+  "author": "Wellington <wellington30071997@gmail.com>",
+  "description": "Sequence it is a javascript library to help create apps using functional programming",
+  "keywords": [
+    "util",
+    "functional",
+    "client",
+    "browser",
+    "library"
+  ],
+  "main": "sequence.js",
+  "devDependencies": {
+    "gulp-clean": "^0.3.2",
+    "gulp-concat": "^2.6.0",
+    "gulp-uglify": "^2.0.0",
+    "jshint": "^2.9.2",
+    "qunit-cli": "~0.2.0",
+    "qunitjs": "^1.18.0"
+  },
+  "scripts": {
+    "test": "qunit-cli test/arrays.js && qunit-cli test/strings.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
+}
