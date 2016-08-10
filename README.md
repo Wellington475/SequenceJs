@@ -234,7 +234,6 @@ It is required node.js and npm
 * [Node.js](https://nodejs.org/en/)
 * [Npm](https://www.npmjs.com/)  
 
-
-	$ git clone https://github.com/Wellington475/SequenceJs
-	$ npm install
-	$ npm test
+	$ git clone https://github.com/Wellington475/ThinkMachine
+	$ pip install -r requirements.txt
+	$ nosetests
