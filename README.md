@@ -1,4 +1,4 @@
-# Sequence
+# Sequence [![Build Status](https://travis-ci.org/Wellington475/SequenceJs.svg?branch=master)](https://travis-ci.org/Wellington475/SequenceJs)
 Sequence is a library javascript(vanilla/pure) to functional programming
 ____
 Sequence is a library javascript(vanilla/pure) that provides a "wrapper" for axillary in creating applications using functional programming techniques.
