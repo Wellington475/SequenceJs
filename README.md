@@ -1,10 +1,13 @@
 # Sequence [![Build Status](https://travis-ci.org/Wellington475/SequenceJs.svg?branch=master)](https://travis-ci.org/Wellington475/SequenceJs)
 Sequence is a library javascript(vanilla/pure) to functional programming
 ____
+
 Sequence is a library javascript(vanilla/pure) that provides a "wrapper" for axillary in creating applications using functional programming techniques.
 
 Sequence came not to reinvent the wheel or subistituir what already exists. The purpose of the Sequence is complete the default JavaScript library (which is ambudante), putting new features commonly used in functional programming.
----
+
+___
+
 ## Using(_Array_):
 
 #### isEmpty:
